@@ -1,2 +1,2 @@
-# Responsive-Font-JS
-Responsive Fontsize via JavaScript relative to viewport
+# Responsive Fontsize with JS
+Creating responsive font relative to viewport size, using basic HTML DOM manipulation with pure JavaScript without libraries.
